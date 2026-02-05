@@ -1,4 +1,4 @@
-# Androidify on Android
+Androidify on Android
 
 ![androidify banner](/art/androidify_banner.webp)
 
